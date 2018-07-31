@@ -1,0 +1,12 @@
+{
+  "name": "jaml-parser",
+  "version": "1.0.0",
+  "description": "A parser for JAML (Just Another Markup Language)",
+  "main": "index.js",
+  "repository": "https://github.com/dkkempto/jaml-parser.git",
+  "author": "Dustin Kempton <dkempton.developer@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.10"
+  }
+}
